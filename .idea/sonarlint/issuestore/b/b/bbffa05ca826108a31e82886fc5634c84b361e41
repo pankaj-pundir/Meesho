@@ -1,0 +1,20 @@
+
+L
+java:S1066$"/Merge this if statement with the enclosing one.(·Á€8‡¾ĞŞ1
+‹
+java:S1319"iThe type of "followerData" should be an interface such as "Map" rather than the implementation "HashMap".(ã‡ÌÎùÿÿÿÿ8ˆ¾ĞŞ1
+Œ
+java:S1319"jThe type of "followingData" should be an interface such as "Map" rather than the implementation "HashMap".(œÃŠóıÿÿÿÿ8ˆ¾ĞŞ1
+z
+java:S1104"XMake followerData a static final constant or non-public and provide accessors if needed.(ã‡ÌÎùÿÿÿÿ8ˆ¾ĞŞ1
+{
+java:S1104"YMake followingData a static final constant or non-public and provide accessors if needed.(œÃŠóıÿÿÿÿ8ˆ¾ĞŞ1
+T
+java:S1444"2Make this "public static followerData" field final(ã‡ÌÎùÿÿÿÿ8ˆ¾ĞŞ1
+U
+java:S1444"3Make this "public static followingData" field final(œÃŠóıÿÿÿÿ8ˆ¾ĞŞ1
+?
+java:S2386"Make this member "protected".(ã‡ÌÎùÿÿÿÿ8‹¾ĞŞ1
+?
+java:S2386"Make this member "protected".(œÃŠóıÿÿÿÿ8‹¾ĞŞ1
+X	java:S125"<This block of commented-out lines of code should be removed.(±×8¾ĞŞ1

@@ -1,0 +1,9 @@
+
+‚
+java:S1319"eThe type of "userData" should be an interface such as "Map" rather than the implementation "HashMap".(’ÿÍ“8«ıƒÏŞ1
+q
+java:S1104"TMake userData a static final constant or non-public and provide accessors if needed.(’ÿÍ“8¬ıƒÏŞ1
+K
+java:S1444".Make this "public static userData" field final(’ÿÍ“8¬ıƒÏŞ1
+:
+java:S2386"Make this member "protected".(’ÿÍ“8°ıƒÏŞ1
